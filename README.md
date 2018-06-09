@@ -1,7 +1,8 @@
 # EDUCATION
 ## 2012-Present
 Doing my masters Degree on Network and Information Systems Engineering @ Universidade do Porto
-##2008-2012
+
+## 2008-2012
 Escola Secundária Garcia de Orta @ Porto
 
 # SKILLS
