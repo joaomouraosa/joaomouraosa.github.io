@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# EDUCATION
+## 2012-Present
+Doing my masters Degree on Network and Information Systems Engineering @ Universidade do Porto
+##2008-2012
+Escola Secundária Garcia de Orta @ Porto
 
-You can use the [editor on GitHub](https://github.com/joaomouraosa/joaomouraosa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# SKILLS
+## COMPUTER LANGUAGES
+- Java
+- Python
+- VBA
+- R
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## TOOLS
+- Git
+>version control system for a good coordination among the coding team
 
-### Markdown
+- Eclipse and IntelliJ IDEA
+>as integrated development environments for Java and Python software development
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Rstudio
+>integrated development environment for R programing
 
-```markdown
-Syntax highlighted code block
+- Excel
 
-# Header 1
-## Header 2
-### Header 3
+## PROTOCOLS & APIS
+- JSON and REST web services technologies in web development
+- DNS, DHCP and other network services configuration on Linux machines
+- Public-key based cryptography protocols
 
-- Bulleted
-- List
+## MINDSET
+- Very organized
+- Quick learner
+- Eager to learn
 
-1. Numbered
-2. List
+## PROJECTS
+https://github.com/joaomouraosa
 
-**Bold** and _Italic_ and `Code` text
+## LANGUAGES
+### English
+Proficient
+### Portuguese
+Native speaker
 
-[Link](url) and ![Image](src)
-```
+## INTERESTS AND OTHER ACTIVITIES
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joaomouraosa/joaomouraosa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Very interested in technology in general. Specially in AI, data mining and cybersecurity, areas in which I keep researching regularly with an ever grown curiosity.
